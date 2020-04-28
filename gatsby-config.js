@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Underreacted`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Vikrant Bhat`,
+      summary: `who is a student and a passionate web technology enthusiast`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Personal blog by Vikrant Bhat.`,
+    siteUrl: `https://overreacted.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `@vikrantbhat1022`,
     },
   },
   plugins: [
