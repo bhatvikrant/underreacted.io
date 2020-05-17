@@ -6,7 +6,7 @@ module.exports = {
       summary: `who is a student and a passionate web technology enthusiast`,
     },
     description: `Personal blog by Vikrant Bhat.`,
-    siteUrl: `https://overreacted.netlify.app/`,
+    siteUrl: `https://underreacted.netlify.app/`,
     social: {
       twitter: `@vikrantbhat1022`,
     },
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Underreacted`,
+        short_name: `Underreacted`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/favicon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
