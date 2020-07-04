@@ -5,8 +5,6 @@ readTime: 3 min read
 description: How to persist redux store across browser refresh
 ---
 
-# Redux-persist (v6) in detail (React)
-
 ![Persistense is the key to success](https://media.giphy.com/media/H4buZ6PLgwsKjA9hlO/giphy.gif)
 
 Whenever you reload your app, the javascript process has nothing in memory. You will have to re-initialize state, and maybe set some basic state based on the url (if you are in a browser). Though usually this is what you want but there are many use cases where you might want to persist your redux state even when you reload your browser window.
@@ -137,8 +135,7 @@ Congratulations! You have successfully completed the setup of redux-persist in y
 ### Additional resources
 
 > 1. Check out [this](https://www.freecodecamp.org/news/how-to-use-redux-persist-when-migrating-your-states-a5dee16b5ead/) great article to know how you can do versioning in your persisted localstorage using redux-persist. This usually comes in handy when you make some big changes in your redux state and its not compatible with the previously saved localstorage in production, so redux-persist has this good to have feature for versioning built in.
->    <br />
->    ![enter image description here](https://cdn-media-1.freecodecamp.org/images/0rJmD7xq6mgOnUokqih4WTMy2F6Kd3GmgalV)
+>    <br /> > ![enter image description here](https://cdn-media-1.freecodecamp.org/images/0rJmD7xq6mgOnUokqih4WTMy2F6Kd3GmgalV)
 >
 > 2. [Docs](https://github.com/rt2zz/redux-persist#readme)
 > 3. [API](https://github.com/rt2zz/redux-persist#api)
