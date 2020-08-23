@@ -5,6 +5,8 @@ readTime: 1 min read
 description: Ever wanted to open any public GitHub repo in Codesandbox?
 ---
 
+![](./GitHub.png)
+
 If you are someone who wants to _quickly just lookup some code in a GitHub repository_ or even fork or edit it, then this is a good **handy trick** to know.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/7bvxnodoea6b3j3kysie.gif)
