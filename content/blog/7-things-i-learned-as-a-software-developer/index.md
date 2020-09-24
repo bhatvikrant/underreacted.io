@@ -52,4 +52,5 @@ I started with [React](http://reactjs.org/) on day one, not knowing much about i
 ---
 
 <br />
+
 I would also like to thank my mentors [Akshat Gupta](https://www.linkedin.com/in/akshatgupta10/) & [Rajat Johri](https://www.linkedin.com/in/rajatjohri007/) for giving me this wonderful opportunity. Your vision and determination in your respective fields of expertise has given me a unique perspective.
